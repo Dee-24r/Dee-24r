@@ -24,4 +24,4 @@ In my free time? I hack — I make hardware, machine learning, and a few softwar
 - Interactive website + novel + games - https://github.com/Dee-24r/Sleepy_sleepover
 - Vibe coded hardware because that was what was expected :( https://github.com/Dee-24r/seb-hack
 
-I'd love to hear from you! Please feel free to chat!
+I'd love to hear from you! Feel free to chat!
