@@ -1,4 +1,4 @@
-![opensauce](exhibitor.jpeg)
+![opensauce](opensauce-exhibitor.jpeg)
 <br>
 Hello! I'm Funmilayo, and Yes! I DID exhibit at Open Sauce 2026! :D 
 
