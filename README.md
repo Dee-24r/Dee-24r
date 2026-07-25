@@ -2,7 +2,7 @@
 <br>
 
 Hello! I'm Funmilayo, and yes! I DID exhibit at Open Sauce 2026! :D 
-<br><br>
+<br>
 
 In my free time? I hack — I make hardware, machine learning, and a few software projects. Feel free to message me; I'm curious and would love to hear about whatever projects you're working on! Here are some of mine you should check out!
 
