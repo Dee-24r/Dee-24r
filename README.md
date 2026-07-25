@@ -1,8 +1,9 @@
 ![opensauce-exhibitor](opensauce--exhibitor.jpeg)
 <br>
-<h4>Hello! I'm Funmilayo, and Yes! I DID exhibit at Open Sauce 2026! :D 
 
-In my free time? I hack!! I make hardware, machine learning, and a few software projects. I love meeting new people, so feel free to let me know what you're working on!</h4>
+Hello! I'm Funmilayo, and yes! I DID exhibit at Open Sauce 2026! :D 
+<br>
+In my free time? I hack — I make hardware, machine learning, and a few software projects. Feel free to message me; I'm curious and would love to hear about whatever projects you're working on! Here are some of mine you should check out!
 
 ### Projects I'm currently working on that you should check out:
 
