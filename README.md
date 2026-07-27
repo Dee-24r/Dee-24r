@@ -11,6 +11,7 @@ In my free time? I hack — I make custom hardware, machine learning, and a few 
 - Macropad - https://github.com/Dee-24r/Dee-pad_clean
 - Split keyboard - https://github.com/Dee-24r/Edge
 - Custom RP2040 Devboard https://github.com/Dee-24r/MyDevboard
+- Quiz App - https://github.com/Dee-24r/quiz-master
 
 ### Couple of finished personal projects
 - Blinky board - https://github.com/Dee-24r/GoBlinky
@@ -23,5 +24,12 @@ In my free time? I hack — I make custom hardware, machine learning, and a few 
 - AI study tool - https://github.com/Dee-24r/clarify
 - Interactive website + novel + games - https://github.com/Dee-24r/Sleepy_sleepover
 - Vibe coded hardware because that was what was expected :( https://github.com/Dee-24r/seb-hack
+
+### Other projects 
+All listed before this section are personal projects. These are general projects.
+- Music Playlist App - https://github.com/Dee-24r/ai110-module1tinker-playlistchaos-starter
+- Music Recommender Simulation - https://github.com/Dee-24r/ai110-module3show-musicrecommendersimulation-starter-neww
+- Pet care app - https://github.com/Dee-24r/ai110-module2show-pawpal-starter
+- Compilation of Data Structures Implementation and scripts - https://github.com/Dee-24r/cpp_code_and_labs
 
 I'd love to hear from you! Feel free to chat!
