@@ -9,7 +9,7 @@ In my free time? I hack — I make custom hardware, AI/ML systems, and a few sof
 ### Projects I'm currently working on
 
 **Personal**
-- A weather station - https://github.com/parya7254/AtmosCore
+- RC Messenger car - https://github.com/Dee-24r/sprint
 - Split keyboard - https://github.com/Dee-24r/Edge
 - Quiz App - https://github.com/Dee-24r/quiz-master
 
@@ -18,6 +18,7 @@ In my free time? I hack — I make custom hardware, AI/ML systems, and a few sof
   
 ### Couple of finished personal projects
 
+- A weather station - https://github.com/parya7254/AtmosCore
 - Macropad - https://github.com/Dee-24r/Dee-pad_clean
 - Custom RP2040 Devboard https://github.com/Dee-24r/MyDevboard
 - Blinky board - https://github.com/Dee-24r/GoBlinky
