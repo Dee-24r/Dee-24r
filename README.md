@@ -10,6 +10,7 @@ In my free time? I hack — I make custom hardware, AI/ML systems, and a few sof
 
 **Personal**
 
+- A Drone! - https://github.com/Dee-24r/stratosphere
 - Sophisticated Aura lamp (lol) - https://github.com/parya7254/Aura
 - Quiz App - https://github.com/Dee-24r/quiz-master
 
