@@ -18,7 +18,7 @@ In my free time? I hack — I make custom hardware, AI/ML systems, and a few sof
 - A weather station - https://github.com/parya7254/AtmosCore
 - A Macropad - https://github.com/Dee-24r/Dee-pad_clean
 - A Custom RP2040 Devboard https://github.com/Dee-24r/MyDevboard
-- - A Drone! - https://github.com/Dee-24r/stratosphere
+- A Drone! - https://github.com/Dee-24r/stratosphere
 - Sophisticated Aura lamp (lol) - https://github.com/parya7254/Aura
 - A Blinky board - https://github.com/Dee-24r/GoBlinky
 - A 2D platformer game - https://hack-girl.itch.io/dash - [repo](https://github.com/Dee-24r/Dash)
