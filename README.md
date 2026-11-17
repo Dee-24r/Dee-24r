@@ -8,25 +8,22 @@ In my free time? I hack — I make custom hardware, AI/ML systems, and a few sof
 
 ### Projects I'm currently working on
 
-**Personal**
-
-- A Drone! - https://github.com/Dee-24r/stratosphere
-- Sophisticated Aura lamp (lol) - https://github.com/parya7254/Aura
-- Quiz App - https://github.com/Dee-24r/quiz-master
-
 **Company**
 - ML Model - Predicting Job Satisfaction from person-job fit, BTT Project for Swytch https://github.com/Break-Through-Tech/Swytch-2C-predicting-job-satisfaction-from-person-job-fit
   
 ### Couple of finished personal projects
 
-- RC Messenger car - https://github.com/Dee-24r/sprint
+- A Quiz App - https://github.com/Dee-24r/quiz-me
+- An RC Messenger car - https://github.com/Dee-24r/sprint
 - A weather station - https://github.com/parya7254/AtmosCore
-- Macropad - https://github.com/Dee-24r/Dee-pad_clean
-- Custom RP2040 Devboard https://github.com/Dee-24r/MyDevboard
-- Blinky board - https://github.com/Dee-24r/GoBlinky
-- 2D platformer game - https://hack-girl.itch.io/dash - [repo](https://github.com/Dee-24r/Dash)
-- Personal website - https://dee-24r.github.io/FunmilayoOshebeyo/ - [repo](https://github.com/Dee-24r/FunmilayoOshebeyo)
-- Split keyboard - https://github.com/Dee-24r/Edge
+- A Macropad - https://github.com/Dee-24r/Dee-pad_clean
+- A Custom RP2040 Devboard https://github.com/Dee-24r/MyDevboard
+- - A Drone! - https://github.com/Dee-24r/stratosphere
+- Sophisticated Aura lamp (lol) - https://github.com/parya7254/Aura
+- A Blinky board - https://github.com/Dee-24r/GoBlinky
+- A 2D platformer game - https://hack-girl.itch.io/dash - [repo](https://github.com/Dee-24r/Dash)
+- A Personal website - https://dee-24r.github.io/FunmilayoOshebeyo/ - [repo](https://github.com/Dee-24r/FunmilayoOshebeyo)
+- A Split keyboard - https://github.com/Dee-24r/Edge
 
 ### Past Hackathon Projects
 
